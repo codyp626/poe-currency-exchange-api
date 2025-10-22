@@ -1,80 +1,79 @@
+// ...existing code...
 import express from "express";
-
-// This will help us connect to the database
 import db from "../db/connection.js";
-
-// This help convert the id from string to ObjectId for the _id.
 import { ObjectId } from "mongodb";
 
-// router is an instance of the express router.
-// We use it to define our routes.
-// The router will be added as a middleware and will take control of requests starting with path /record.
 const router = express.Router();
 
-// This section will help you get a list of all the records.
 router.get("/", async (req, res) => {
-  let collection = await db.collection("records");
-  let results = await collection.find({}).toArray();
-  res.send(results).status(200);
+  try {
+    const collection = db.collection("price_history");
+    const results = await collection.find({}).toArray();
+    res.status(200).send(results);
+  } catch (err) {
+    console.error(err);
+    res.status(500).send("Error fetching records");
+  }
 });
 
-// This section will help you get a single record by id
 router.get("/:id", async (req, res) => {
-  let collection = await db.collection("records");
-  let query = { _id: new ObjectId(req.params.id) };
-  let result = await collection.findOne(query);
-
-  if (!result) res.send("Not found").status(404);
-  else res.send(result).status(200);
+  try {
+    const collection = db.collection("price_history");
+    const query = { _id: new ObjectId(req.params.id) };
+    const result = await collection.findOne(query);
+    if (!result) return res.status(404).send("Not found");
+    res.status(200).send(result);
+  } catch (err) {
+    console.error(err);
+    res.status(500).send("Error fetching record");
+  }
 });
 
-// This section will help you create a new record.
 router.post("/", async (req, res) => {
   try {
-    let newDocument = {
-      name: req.body.name,
-      position: req.body.position,
-      level: req.body.level,
+    const newDocument = {
+      time: req.body.time ? new Date(req.body.time) : new Date(),
+      to_currency: req.body.to_currency || "",
+      from_currency: req.body.from_currency || "",
+      sell_price: req.body.sell_price != null ? Number(req.body.sell_price) : null,
+      buy_price: req.body.buy_price != null ? Number(req.body.buy_price) : null,
     };
-    let collection = await db.collection("records");
-    let result = await collection.insertOne(newDocument);
-    res.send(result).status(204);
+    const collection = db.collection("price_history");
+    const result = await collection.insertOne(newDocument);
+    res.status(201).send(result);
   } catch (err) {
     console.error(err);
     res.status(500).send("Error adding record");
   }
 });
 
-// This section will help you update a record by id.
 router.patch("/:id", async (req, res) => {
   try {
     const query = { _id: new ObjectId(req.params.id) };
     const updates = {
-      $set: {
-        name: req.body.name,
-        position: req.body.position,
-        level: req.body.level,
-      },
+      $set: {},
     };
+    if (req.body.time) updates.$set.time = new Date(req.body.time);
+    if (req.body.to_currency !== undefined) updates.$set.to_currency = req.body.to_currency;
+    if (req.body.from_currency !== undefined) updates.$set.from_currency = req.body.from_currency;
+    if (req.body.sell_price !== undefined) updates.$set.sell_price = Number(req.body.sell_price);
+    if (req.body.buy_price !== undefined) updates.$set.buy_price = Number(req.body.buy_price);
 
-    let collection = await db.collection("records");
-    let result = await collection.updateOne(query, updates);
-    res.send(result).status(200);
+    const collection = await db.collection("price_history");
+    const result = await collection.updateOne(query, updates);
+    res.status(200).send(result);
   } catch (err) {
     console.error(err);
     res.status(500).send("Error updating record");
   }
 });
 
-// This section will help you delete a record
 router.delete("/:id", async (req, res) => {
   try {
     const query = { _id: new ObjectId(req.params.id) };
-
-    const collection = db.collection("records");
-    let result = await collection.deleteOne(query);
-
-    res.send(result).status(200);
+    const collection = db.collection("price_history");
+    const result = await collection.deleteOne(query);
+    res.status(200).send(result);
   } catch (err) {
     console.error(err);
     res.status(500).send("Error deleting record");
@@ -82,3 +81,4 @@ router.delete("/:id", async (req, res) => {
 });
 
 export default router;
+// ...existing code...

@@ -1,12 +1,10 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom/client";
-import {
-  createBrowserRouter,
-  RouterProvider,
-} from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import App from "./App";
 import Record from "./components/Record";
 import RecordList from "./components/RecordList";
+import Graph from "./components/Graph";
 import "./index.css";
 
 const router = createBrowserRouter([
@@ -14,30 +12,10 @@ const router = createBrowserRouter([
     path: "/",
     element: <App />,
     children: [
-      {
-        path: "/",
-        element: <RecordList />,
-      },
-    ],
-  },
-  {
-    path: "/create",
-    element: <App />,
-    children: [
-      {
-        path: "/create",
-        element: <Record />,
-      },
-    ],
-  },
-  {
-    path: "/edit/:id",
-    element: <App />,
-    children: [
-      {
-        path: "/edit/:id",
-        element: <Record />,
-      },
+      { index: true, element: <RecordList /> },
+      { path: "create", element: <Record /> },
+      { path: "edit/:id", element: <Record /> },
+      { path: "graph", element: <Graph /> },
     ],
   },
 ]);

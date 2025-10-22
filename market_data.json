@@ -1,0 +1,2594 @@
+[
+  {
+    "time": {
+      "$date": "2025-10-22T00:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 68.67,
+    "buy_price": 66.8
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T00:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 71.77,
+    "buy_price": 69.47
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T00:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 70.31,
+    "buy_price": 67.55
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T00:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 70.0,
+    "buy_price": 67.61
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T00:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 71.59,
+    "buy_price": 69.46
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T00:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 72.63,
+    "buy_price": 70.4
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T01:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 72.86,
+    "buy_price": 69.38
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T01:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 75.41,
+    "buy_price": 71.83
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T01:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 74.32,
+    "buy_price": 70.54
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T01:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 77.07,
+    "buy_price": 74.49
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T01:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 74.61,
+    "buy_price": 72.44
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T01:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 77.73,
+    "buy_price": 76.69
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T02:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 77.88,
+    "buy_price": 76.34
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T02:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 79.21,
+    "buy_price": 78.04
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T02:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 79.1,
+    "buy_price": 76.72
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T02:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 77.72,
+    "buy_price": 76.29
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T02:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 78.72,
+    "buy_price": 77.1
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T02:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 78.92,
+    "buy_price": 75.51
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T03:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 80.29,
+    "buy_price": 77.65
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T03:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 80.35,
+    "buy_price": 76.99
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T03:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 84.52,
+    "buy_price": 82.03
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T03:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 81.88,
+    "buy_price": 80.01
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T03:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 84.61,
+    "buy_price": 81.03
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T03:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 85.87,
+    "buy_price": 83.02
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T04:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 84.9,
+    "buy_price": 81.54
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T04:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 87.52,
+    "buy_price": 84.18
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T04:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 87.67,
+    "buy_price": 86.05
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T04:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 86.95,
+    "buy_price": 84.3
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T04:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 86.63,
+    "buy_price": 85.49
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T04:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 88.5,
+    "buy_price": 85.76
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T05:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 88.56,
+    "buy_price": 85.31
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T05:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 88.06,
+    "buy_price": 86.39
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T05:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 92.06,
+    "buy_price": 90.15
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T05:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 90.01,
+    "buy_price": 88.88
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T05:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 93.03,
+    "buy_price": 90.89
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T05:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 90.83,
+    "buy_price": 87.04
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T06:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 91.63,
+    "buy_price": 88.51
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T06:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 93.12,
+    "buy_price": 91.06
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T06:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 92.19,
+    "buy_price": 88.73
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T06:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 96.23,
+    "buy_price": 95.03
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T06:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 94.56,
+    "buy_price": 91.43
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T06:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 96.06,
+    "buy_price": 93.77
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T07:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 96.75,
+    "buy_price": 93.46
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T07:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 98.99,
+    "buy_price": 97.42
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T07:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 98.8,
+    "buy_price": 95.84
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T07:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 97.73,
+    "buy_price": 94.65
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T07:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 97.03,
+    "buy_price": 95.65
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T07:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 97.65,
+    "buy_price": 94.65
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T08:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 99.83,
+    "buy_price": 96.88
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T08:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 102.65,
+    "buy_price": 101.6
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T08:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 102.71,
+    "buy_price": 101.42
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T08:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 102.56,
+    "buy_price": 99.58
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T08:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 104.66,
+    "buy_price": 101.97
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T08:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 102.17,
+    "buy_price": 100.78
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T09:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 102.34,
+    "buy_price": 101.24
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T09:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 104.08,
+    "buy_price": 100.77
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T09:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 104.64,
+    "buy_price": 103.02
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T09:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 106.09,
+    "buy_price": 104.87
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T09:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 106.44,
+    "buy_price": 103.84
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T09:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 105.6,
+    "buy_price": 103.72
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T10:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 106.49,
+    "buy_price": 103.27
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T10:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 109.83,
+    "buy_price": 107.67
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T10:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 109.05,
+    "buy_price": 107.49
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T10:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 108.81,
+    "buy_price": 105.38
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T10:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 111.5,
+    "buy_price": 109.44
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T10:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 109.74,
+    "buy_price": 107.21
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T11:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 113.44,
+    "buy_price": 110.53
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T11:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 112.82,
+    "buy_price": 111.21
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T11:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 111.72,
+    "buy_price": 108.64
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T11:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 111.76,
+    "buy_price": 108.31
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T11:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 113.82,
+    "buy_price": 112.33
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T11:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 114.75,
+    "buy_price": 112.21
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T12:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 114.87,
+    "buy_price": 111.21
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T12:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 115.16,
+    "buy_price": 111.41
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T12:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 117.49,
+    "buy_price": 115.51
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T12:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 116.83,
+    "buy_price": 115.06
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T12:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 117.12,
+    "buy_price": 113.55
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T12:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 119.47,
+    "buy_price": 117.14
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T13:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 118.86,
+    "buy_price": 115.29
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T13:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 119.7,
+    "buy_price": 118.54
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T13:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 120.64,
+    "buy_price": 116.98
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T13:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 121.4,
+    "buy_price": 119.0
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T13:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 119.71,
+    "buy_price": 117.79
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T13:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 120.69,
+    "buy_price": 118.38
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T14:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 121.63,
+    "buy_price": 120.53
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T14:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 125.18,
+    "buy_price": 122.62
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T14:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 123.88,
+    "buy_price": 121.84
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T14:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 126.0,
+    "buy_price": 124.28
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T14:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 124.81,
+    "buy_price": 123.25
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T14:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 126.39,
+    "buy_price": 123.17
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T15:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 125.72,
+    "buy_price": 124.72
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T15:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 126.17,
+    "buy_price": 122.64
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T15:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 128.91,
+    "buy_price": 125.31
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T15:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 128.3,
+    "buy_price": 125.2
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T15:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 129.64,
+    "buy_price": 126.28
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T15:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 128.36,
+    "buy_price": 125.77
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T16:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 131.47,
+    "buy_price": 130.21
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T16:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 131.63,
+    "buy_price": 128.6
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T16:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 130.45,
+    "buy_price": 127.79
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T16:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 132.51,
+    "buy_price": 129.83
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T16:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 132.25,
+    "buy_price": 129.96
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T16:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 132.1,
+    "buy_price": 128.97
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T17:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 135.65,
+    "buy_price": 133.91
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T17:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 135.19,
+    "buy_price": 133.93
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T17:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 133.58,
+    "buy_price": 131.17
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T17:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 137.56,
+    "buy_price": 133.74
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T17:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 138.26,
+    "buy_price": 135.96
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T17:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 135.57,
+    "buy_price": 132.66
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T18:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 136.42,
+    "buy_price": 133.02
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T18:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 138.46,
+    "buy_price": 136.99
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T18:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 140.14,
+    "buy_price": 137.11
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T18:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 140.81,
+    "buy_price": 137.49
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T18:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 141.07,
+    "buy_price": 137.82
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T18:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 142.66,
+    "buy_price": 140.53
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T19:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 142.38,
+    "buy_price": 139.58
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T19:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 144.23,
+    "buy_price": 142.38
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T19:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 144.27,
+    "buy_price": 141.01
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T19:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 144.76,
+    "buy_price": 142.16
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T19:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 146.21,
+    "buy_price": 142.57
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T19:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 146.7,
+    "buy_price": 143.23
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T20:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 146.54,
+    "buy_price": 145.05
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T20:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 146.16,
+    "buy_price": 144.83
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T20:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 147.13,
+    "buy_price": 143.87
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T20:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 148.66,
+    "buy_price": 144.96
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T20:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 146.73,
+    "buy_price": 143.62
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T20:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 148.85,
+    "buy_price": 145.63
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T21:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 149.79,
+    "buy_price": 146.55
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T21:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 151.19,
+    "buy_price": 149.31
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T21:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 151.62,
+    "buy_price": 148.0
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T21:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 150.72,
+    "buy_price": 147.36
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T21:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 151.77,
+    "buy_price": 150.11
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T21:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 150.63,
+    "buy_price": 148.05
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T22:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 154.44,
+    "buy_price": 152.53
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T22:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 153.52,
+    "buy_price": 151.02
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T22:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 152.7,
+    "buy_price": 149.76
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T22:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 153.25,
+    "buy_price": 150.04
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T22:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 156.94,
+    "buy_price": 155.78
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T22:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 156.36,
+    "buy_price": 153.6
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T23:00:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 156.46,
+    "buy_price": 152.56
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T23:10:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 158.3,
+    "buy_price": 156.16
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T23:20:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 158.57,
+    "buy_price": 156.04
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T23:30:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 158.06,
+    "buy_price": 154.84
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T23:40:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 157.58,
+    "buy_price": 155.5
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T23:50:00Z"
+    },
+    "from_currency": "Chaos Orb",
+    "to_currency": "Divine Orb",
+    "sell_price": 161.57,
+    "buy_price": 157.63
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T00:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 219.86,
+    "buy_price": 199.98
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T00:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 209.71,
+    "buy_price": 194.3
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T00:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 192.33,
+    "buy_price": 181.87
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T00:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 220.87,
+    "buy_price": 215.11
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T00:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 218.49,
+    "buy_price": 199.34
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T00:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 228.92,
+    "buy_price": 223.2
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T01:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 228.43,
+    "buy_price": 209.71
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T01:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 226.95,
+    "buy_price": 219.23
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T01:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 249.71,
+    "buy_price": 230.33
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T01:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 231.49,
+    "buy_price": 223.05
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T01:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 257.45,
+    "buy_price": 238.62
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T01:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 255.08,
+    "buy_price": 241.49
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T02:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 252.42,
+    "buy_price": 247.41
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T02:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 252.99,
+    "buy_price": 244.29
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T02:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 265.63,
+    "buy_price": 246.64
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T02:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 278.76,
+    "buy_price": 263.76
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T02:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 295.39,
+    "buy_price": 284.0
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T02:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 314.09,
+    "buy_price": 300.35
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T03:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 317.18,
+    "buy_price": 306.46
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T03:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 306.74,
+    "buy_price": 296.4
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T03:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 328.8,
+    "buy_price": 311.5
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T03:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 318.23,
+    "buy_price": 298.5
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T03:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 305.07,
+    "buy_price": 288.27
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T03:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 332.79,
+    "buy_price": 315.68
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T04:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 334.04,
+    "buy_price": 319.28
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T04:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 326.15,
+    "buy_price": 315.76
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T04:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 350.62,
+    "buy_price": 337.55
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T04:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 360.87,
+    "buy_price": 341.19
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T04:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 343.77,
+    "buy_price": 332.67
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T04:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 356.51,
+    "buy_price": 349.46
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T05:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 367.13,
+    "buy_price": 352.77
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T05:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 366.26,
+    "buy_price": 356.03
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T05:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 365.95,
+    "buy_price": 355.56
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T05:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 369.32,
+    "buy_price": 361.32
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T05:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 375.47,
+    "buy_price": 365.36
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T05:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 414.15,
+    "buy_price": 397.42
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T06:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 417.6,
+    "buy_price": 408.83
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T06:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 389.33,
+    "buy_price": 379.57
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T06:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 395.09,
+    "buy_price": 379.89
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T06:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 432.94,
+    "buy_price": 427.37
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T06:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 435.13,
+    "buy_price": 416.3
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T06:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 412.09,
+    "buy_price": 397.67
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T07:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 445.69,
+    "buy_price": 430.64
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T07:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 459.48,
+    "buy_price": 447.69
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T07:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 438.99,
+    "buy_price": 424.41
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T07:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 433.25,
+    "buy_price": 421.0
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T07:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 461.71,
+    "buy_price": 445.64
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T07:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 472.52,
+    "buy_price": 461.72
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T08:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 486.82,
+    "buy_price": 478.76
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T08:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 483.15,
+    "buy_price": 464.95
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T08:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 463.45,
+    "buy_price": 454.82
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T08:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 476.85,
+    "buy_price": 459.39
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T08:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 484.28,
+    "buy_price": 475.32
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T08:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 515.36,
+    "buy_price": 505.14
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T09:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 491.47,
+    "buy_price": 480.32
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T09:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 516.26,
+    "buy_price": 506.16
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T09:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 510.57,
+    "buy_price": 501.91
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T09:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 521.02,
+    "buy_price": 508.73
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T09:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 534.99,
+    "buy_price": 526.95
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T09:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 531.26,
+    "buy_price": 514.71
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T10:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 538.95,
+    "buy_price": 527.27
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T10:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 522.53,
+    "buy_price": 507.19
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T10:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 551.41,
+    "buy_price": 535.9
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T10:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 563.38,
+    "buy_price": 552.85
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T10:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 577.59,
+    "buy_price": 563.29
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T10:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 562.66,
+    "buy_price": 548.85
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T11:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 582.57,
+    "buy_price": 567.9
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T11:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 572.69,
+    "buy_price": 564.25
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T11:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 584.17,
+    "buy_price": 568.05
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T11:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 581.59,
+    "buy_price": 566.38
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T11:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 583.38,
+    "buy_price": 565.55
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T11:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 599.81,
+    "buy_price": 581.97
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T12:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 606.69,
+    "buy_price": 588.36
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T12:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 610.26,
+    "buy_price": 604.66
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T12:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 630.39,
+    "buy_price": 622.23
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T12:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 620.42,
+    "buy_price": 610.45
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T12:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 636.54,
+    "buy_price": 626.45
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T12:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 626.54,
+    "buy_price": 614.01
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T13:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 641.83,
+    "buy_price": 626.06
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T13:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 650.01,
+    "buy_price": 637.92
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T13:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 634.64,
+    "buy_price": 625.4
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T13:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 664.05,
+    "buy_price": 654.16
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T13:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 644.82,
+    "buy_price": 635.74
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T13:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 677.71,
+    "buy_price": 664.1
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T14:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 664.46,
+    "buy_price": 657.87
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T14:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 692.51,
+    "buy_price": 679.75
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T14:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 670.11,
+    "buy_price": 655.16
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T14:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 671.37,
+    "buy_price": 666.16
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T14:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 689.66,
+    "buy_price": 683.73
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T14:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 702.15,
+    "buy_price": 695.63
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T15:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 689.42,
+    "buy_price": 679.84
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T15:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 722.09,
+    "buy_price": 711.01
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T15:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 712.18,
+    "buy_price": 701.41
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T15:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 716.72,
+    "buy_price": 703.44
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T15:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 735.21,
+    "buy_price": 725.48
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T15:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 721.71,
+    "buy_price": 703.53
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T16:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 741.06,
+    "buy_price": 726.86
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T16:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 734.5,
+    "buy_price": 724.83
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T16:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 767.05,
+    "buy_price": 758.74
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T16:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 743.33,
+    "buy_price": 731.49
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T16:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 776.61,
+    "buy_price": 767.18
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T16:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 776.69,
+    "buy_price": 766.72
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T17:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 778.41,
+    "buy_price": 770.73
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T17:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 781.43,
+    "buy_price": 768.19
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T17:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 792.84,
+    "buy_price": 773.43
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T17:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 782.93,
+    "buy_price": 764.2
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T17:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 784.84,
+    "buy_price": 771.11
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T17:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 803.31,
+    "buy_price": 790.62
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T18:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 806.57,
+    "buy_price": 792.5
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T18:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 823.63,
+    "buy_price": 806.01
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T18:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 798.34,
+    "buy_price": 791.51
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T18:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 822.85,
+    "buy_price": 814.03
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T18:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 834.4,
+    "buy_price": 822.07
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T18:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 818.73,
+    "buy_price": 802.77
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T19:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 845.14,
+    "buy_price": 827.5
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T19:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 855.17,
+    "buy_price": 836.67
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T19:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 844.64,
+    "buy_price": 839.35
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T19:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 852.83,
+    "buy_price": 842.69
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T19:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 866.52,
+    "buy_price": 847.91
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T19:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 875.66,
+    "buy_price": 863.02
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T20:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 865.85,
+    "buy_price": 855.2
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T20:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 870.64,
+    "buy_price": 853.0
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T20:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 884.5,
+    "buy_price": 869.58
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T20:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 889.99,
+    "buy_price": 882.19
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T20:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 904.97,
+    "buy_price": 889.47
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T20:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 892.48,
+    "buy_price": 880.98
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T21:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 921.55,
+    "buy_price": 910.08
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T21:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 916.92,
+    "buy_price": 908.14
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T21:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 916.38,
+    "buy_price": 903.95
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T21:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 932.57,
+    "buy_price": 922.39
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T21:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 915.55,
+    "buy_price": 900.23
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T21:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 913.21,
+    "buy_price": 904.57
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T22:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 954.78,
+    "buy_price": 934.9
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T22:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 929.79,
+    "buy_price": 910.33
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T22:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 964.11,
+    "buy_price": 953.62
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T22:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 959.34,
+    "buy_price": 951.32
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T22:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 973.81,
+    "buy_price": 960.41
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T22:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 962.65,
+    "buy_price": 957.62
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T23:00:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 971.96,
+    "buy_price": 966.04
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T23:10:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 986.32,
+    "buy_price": 966.99
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T23:20:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 999.3,
+    "buy_price": 986.51
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T23:30:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 972.66,
+    "buy_price": 954.14
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T23:40:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 977.06,
+    "buy_price": 957.52
+  },
+  {
+    "time": {
+      "$date": "2025-10-22T23:50:00Z"
+    },
+    "from_currency": "Divine Orb",
+    "to_currency": "Mirror of Kalandra",
+    "sell_price": 984.14,
+    "buy_price": 977.35
+  }
+]
