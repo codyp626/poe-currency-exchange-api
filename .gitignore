@@ -1,2 +1,3 @@
 # Ignore environment files (e.g. MongoDB connection strings)
 config.env/
+mern/server/config.env
