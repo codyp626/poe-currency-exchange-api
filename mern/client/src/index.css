@@ -1,3 +1,56 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* base layer: global dark/light base styles and simple utility classes */
+@layer base {
+  html, body, #root {
+    height: 100%;
+  }
+
+  body {
+    @apply bg-white text-slate-900 antialiased;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* dark mode root colors */
+  .dark body {
+    @apply bg-slate-900 text-slate-100;
+  }
+
+  /* card panels */
+  .card {
+    @apply bg-white/90 dark:bg-slate-800/90 border border-slate-200/5 dark:border-slate-700/50 rounded-lg;
+  }
+
+  /* subtle muted text */
+  .muted {
+    @apply text-slate-500 dark:text-slate-400;
+  }
+
+  /* modern button default */
+  .btn {
+    @apply inline-flex items-center h-9 rounded-md px-3 border bg-slate-50 text-slate-900 hover:bg-slate-100;
+  }
+  .dark .btn {
+    @apply bg-slate-800 text-slate-100 border-slate-700 hover:bg-slate-700;
+  }
+
+  /* nice scrollbars */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(148,163,184,0.25) transparent;
+  }
+  *::-webkit-scrollbar {
+    height: 8px;
+    width: 8px;
+  }
+  *::-webkit-scrollbar-thumb {
+    background-color: rgba(148,163,184,0.25);
+    border-radius: 9999px;
+  }
+  .dark *::-webkit-scrollbar-thumb {
+    background-color: rgba(148,163,184,0.16);
+  }
+}
