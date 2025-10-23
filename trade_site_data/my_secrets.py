@@ -1,0 +1,2 @@
+def getSessID():
+    return 'a'
